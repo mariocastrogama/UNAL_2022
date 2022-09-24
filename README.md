@@ -12,6 +12,7 @@ Requiere MATLAB (corre también en Octave)
 Requiere MATLAB (para obtener la última versión de Borg http://borgmoea.org/#contact )
 + Borg-Lorenz.zip, descomprimir y renombrar archivo .dllxxx to .dll
 + test_lorenzcomp.m, ubicar este arvhivo en la misma carpeta que se descomprimió Borg-Lorenz.zip. Este archivo sirve para visualizar dos atractores con parámetros similares y ver como divergen las trayectorias rápidamente
++ otro criterio para tener en cuenta KGE https://doi.org/10.1016/j.jhydrol.2009.08.003 
 
 ## ejemplo 3. calibración de regla de operación estándar de embalses (SOR) y regla de cobertura óptima Tipo I y Tipo II (RCO) 
 Requiere python, se necesita instalar PRIM, Platypus y Rhodium
