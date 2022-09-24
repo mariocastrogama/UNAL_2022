@@ -2,10 +2,11 @@
 
 ## ejemplo 1. "river lake" calibración de coeficientes de difusión
 Requiere MATLAB (corre también en Octave)
-+ run_river_lake.m
-+ run_river_lake_loop.m
-+ three_tanks.m
-+ riverlake_measurements.dat
++ River and Stratified lake problem.pdf [PDF]
++ run_river_lake.m, calculadora de ajuste de calibración. Un par de valores a la vez. 
++ run_river_lake_loop.m, fuerza bruta o muestreo aleatorio.
++ three_tanks.m, ecuaciones diferenciales.
++ riverlake_measurements.dat, datos de la campaña de monitoreo.
 
 ## ejemplo 2. calibración de un atractor de Lorenz using GA (Borg MOEA)
 Requiere MATLAB (para obtener la última versión de Borg http://borgmoea.org/#contact )
