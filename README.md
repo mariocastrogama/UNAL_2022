@@ -16,10 +16,10 @@ Requiere MATLAB
 
 ## ejemplo 3. calibración de regla de operación estándar de embalses (SOR) y regla de cobertura óptima Tipo I y Tipo II (RCO) 
 Requiere python (al menos 3.5), se necesita instalar además: 
+- Rhodium, https://github.com/Project-Platypus/Rhodium/blob/master/INSTALL.md 
 - PRIM, https://github.com/Project-Platypus/PRIM
 - Platypus, https://github.com/Project-Platypus/Platypus
-- Rhodium, https://github.com/Project-Platypus/Rhodium/blob/master/INSTALL.md \n
-Los archivos se encuentran en un archivo .zip
+
 + SOR.zip, descomprimir. Archivo de python contiene el código de las SOR (Regla de operación estándar) y la RCO (Regla de Cobertura Optima)
 Para entender SOR y RCO favor leer  Castro-Gama et al. (2019) https://doi.org/10.1080/23863781.2019.1707132
 
