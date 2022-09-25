@@ -9,8 +9,8 @@ Requiere MATLAB (corre también en Octave)
 + riverlake_measurements.dat, datos de la campaña de monitoreo.
 
 ## ejemplo 2. calibración de un atractor de Lorenz using GA (Borg MOEA)
-Requiere MATLAB (para obtener la última versión de Borg http://borgmoea.org/#contact )
-+ Borg-Lorenz.zip, descomprimir y renombrar archivo .dllxxx to .dll
+Requiere MATLAB 
++ Borg-Lorenz.zip, descomprimir y renombrar archivo .dllxxx to .dll (para obtener la última versión de Borg http://borgmoea.org/#contact).
 + test_lorenzcomp.m, ubicar este arvhivo en la misma carpeta que se descomprimió Borg-Lorenz.zip. Este archivo sirve para visualizar dos atractores con parámetros similares y ver como divergen las trayectorias rápidamente
 + otro criterio para tener en cuenta KGE https://doi.org/10.1016/j.jhydrol.2009.08.003 
 
@@ -19,6 +19,7 @@ Requiere python (al menos 3.5), se necesita instalar además:
 - PRIM, https://github.com/Project-Platypus/PRIM
 - Platypus, https://github.com/Project-Platypus/Platypus
 - Rhodium, https://github.com/Project-Platypus/Rhodium/blob/master/INSTALL.md
+Los archivos se encuentran en un archivo .zip
 + SOR.zip, descomprimir. Archivo de python contiene el código de las SOR (Regla de operación estándar) y la RCO (Regla de Cobertura Optima)
 Para entender SOR y RCO favor leer  Castro-Gama et al. (2019) https://doi.org/10.1080/23863781.2019.1707132
 
