@@ -25,6 +25,6 @@ Para entender SOR y RCO favor leer  Castro-Gama et al. (2019) https://doi.org/10
 ## ejemplo 4*. Programación de cascadas de embalses de hidrogeneración con precio variable (24 hr y 168 hr) 
 Requiere 
 - MATLAB, 
-- YALMIP, YALMIP se consigue en GitHub de forma gratuita.
+- YALMIP, https://github.com/yalmip/YALMIP YALMIP se consigue en GitHub de forma gratuita.
 - GUROBI, https://www.gurobi.com/academia/academic-program-and-licenses/ GUROBI ofrece licencia gratuita para academia por 1 año.
 
